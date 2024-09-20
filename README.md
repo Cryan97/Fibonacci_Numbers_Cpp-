@@ -1,4 +1,4 @@
-This repository contains code used for an assignment I completed as part of the MSc Data Analytics from UCD for the module "Data Programming with C".
+This repository contains code used for an assignment I completed as part of the MSc Data Analytics from UCD for the module "Data Programming with C". I received a grade of 90% for this assignment. 
 
 In this assignment I was tasked with creating a function to produce the first n elements of the Fibonacci sequence using C++. I then had to create a similar function in R and compare the performance and efficiency of the two functions using the "Benchmark" package in R.
 
